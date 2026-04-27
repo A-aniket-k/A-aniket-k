@@ -69,7 +69,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-aniket-k&theme=dracula" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/A-aniket-k/A-aniket-k/output/snake.svg" alt="Snake animation" />
 </div>
 
 <br />
