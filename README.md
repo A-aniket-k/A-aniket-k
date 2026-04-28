@@ -82,7 +82,7 @@
 
 <br />
 
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=cobalt"  />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=cobalt" width="1000" style="max-width: 100%;" />
+</p>
 
