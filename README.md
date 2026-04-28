@@ -39,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=black&style=for-the-badge" height="40" alt="power bi logo" />
 </div>
 
 <h2 align="left">I code with</h2>
