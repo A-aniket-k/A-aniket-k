@@ -10,14 +10,6 @@
 
 <p align="left">📊 Focus: Currently building end-to-end data solutions using SQL, Python, and Power BI.<br><br>🛠️ Workflow: Experienced in data cleaning, exploratory data analysis (EDA), and creating automated reporting pipelines.<br><br>📚 Upskilling: Deep diving into Data Engineering concepts to understand how to scale data architecture.<br><br>🎯 Goal: To deliver precise, high-quality analytics that empower stakeholders to make better choices, faster.<br><br>🎨 The Edge: With a foundational background in Frontend Development and UI/UX, I ensure my data products are not only technically sound but also highly intuitive and user-centric.</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/aniket-kumar-analyst/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:aniketk6664@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
 <h2 align="left">Data Analytics (Core Focus)</h2>
 
