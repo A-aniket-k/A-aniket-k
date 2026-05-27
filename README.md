@@ -57,11 +57,9 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-aniket-k&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A-aniket-k&layout=compact&theme=dracula" height="165" alt="languages graph" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=A-aniket-k&show_icons=true&theme=dracula" alt="Aniket's GitHub Stats" />
+</p>
 <br />
 
 <div align="center">
