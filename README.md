@@ -57,7 +57,9 @@
 
 <br />
 
-![Aniket's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-aniket-k&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=A-aniket-k&show_icons=true&theme=dracula" alt="Aniket's GitHub Stats" />
+</p>
 
 <div align="center">
   <picture>
